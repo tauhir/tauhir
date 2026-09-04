@@ -1,10 +1,14 @@
-### Tauhir Edwards
-Solutions Engineer · Forward Deployed Engineer — Cape Town, South Africa
+#### Hi, I'm Tauhir 👋
 
-Spent eight years on the receiving end of software before building it. As co-founder & CTO of [MartialQA](https://martialqa.co.za) I was product designer and lead developer of a multi-tenant AI SaaS from first commit to paying customers — SOC 2 Type 1, 99.9% uptime, migrated off Azure onto infra I run myself — while also leading a 30–40 person customer organisation for two of those years.
+Co-founder & CTO at [MartialQA](https://martialqa.co.za) 》I build backends and the AI plumbing behind them. Based in Cape Town.
 
-Now looking for a role where I sit with a customer, work out what the system needs to do, and build it — inside a company rather than one client at a time.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Stack:** Python · Django · Celery · Postgres · Kubernetes · Terraform · React · RAG / evaluation harnesses · WebRTC / Telnyx · OAuth & webhook integrations
+- ⚙️ Daily: `python`, `django`, `celery`, `postgres`, `docker`
+- 🤖 Built MartialQA end to end, from first commit to paying customers
+- 🔧 Also run the infrastructure it sits on, including moving us off Azure to cut costs
+- 🛠️ I build scrapers, APIs, automations and integrations when something should be easier than it is
+- 🚗 Away from the screen: cars, PCs and whatever else I've decided to take apart
+- 💬 `ping` me about Django, LLMs, or if you need someone to automate, integrate, or make your life or business better with AI
 
 [LinkedIn](https://linkedin.com/in/tauhiredwards)
