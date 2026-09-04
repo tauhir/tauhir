@@ -6,7 +6,7 @@ Co-founder & CTO at [MartialQA](https://martialqa.co.za) 》I build backends and
 
 - ⚙️ Daily: `python`, `django`, `celery`, `postgres`, `docker`
 - 🤖 Built MartialQA end to end, from first commit to paying customers
-- 🔧 Also run the infrastructure it sits on, including moving us off Azure to cut costs
+- 🔧 I also look after the infra, deployments and whatever production decides to throw at me
 - 🛠️ I build scrapers, APIs, automations and integrations when something should be easier than it is
 - 🚗 Away from the screen: cars, PCs and whatever else I've decided to take apart
 - 💬 `ping` me about Django, LLMs, or if you need someone to automate, integrate, or make your life or business better with AI
